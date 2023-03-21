@@ -1,3 +1,3 @@
 # AppCalculator
 
-Atividade realizada na cadeira de Programação para Dispositivos Móveis no semestre 2023.1.
+Atividade realizada na cadeira de Programação para Dispositivos Móveis no semestre de 2023.1.
